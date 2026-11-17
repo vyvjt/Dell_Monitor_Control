@@ -56,4 +56,4 @@ The block marked `DDC/CI CORE` is copied verbatim from the version that works. A
 
 ## Notes
 
-This is a focused utility for one monitor, not a replacement for ControlMyMonitor. It makes no permanent monitor configuration changes beyond the values you choose, and no permanent Windows changes beyond the optional startup shortcut and its settings file.
+It makes no permanent monitor configuration changes beyond the values you choose, and no permanent Windows changes beyond the optional startup shortcut and its settings file.
