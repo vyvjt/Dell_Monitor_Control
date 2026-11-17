@@ -1,4 +1,4 @@
-# AW2521HFL Control
+# Alienware monitor Control
 
 A tray-resident control panel for the Dell Alienware monitor on Windows. It talks to the monitor over the native DDC/CI interface (the same Monitor Configuration API that ControlMyMonitor and Twinkle Tray use) and mirrors the look of the Windows 11 brightness flyout.
 
